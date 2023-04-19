@@ -28,8 +28,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rilleyreis-dev&show_icons=true&theme=vision-friendly-dark" alt="rilley reis's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilleyreis-dev&layout=compact&theme=vision-friendly-dark" alt="rilley reis's most languages"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=rilleyreis-dev&show_icons=true&theme=vision-friendly-dark" alt="rilley reis's stats"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilleyreis-dev&layout=compact&theme=vision-friendly-dark" alt="rilley reis's most languages"/>
 </p>
 
 <br><br>
