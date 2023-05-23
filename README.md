@@ -28,4 +28,11 @@
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rilleyreis-dev&layout=compact&theme=vision-friendly-dark" alt="rilley reis's most languages"/>
 </p>
 
-![Snake animation](https://github.com/rilleyreis-dev/rilleyreis-dev/blob/output/github-contribution-grid-snake.svg)
+## Contact 
+<p align="left">
+  I am always open to new collaboration opportunities and interesting discussions. You can reach me through the following options:
+  <ul>
+    <li>Email: <a href="mailto:email@provedor.com.br">dev.rilleyreis@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/rilley-reis-795752ab/">Rilley Reis</a></li>
+  </ul>
+</p>
